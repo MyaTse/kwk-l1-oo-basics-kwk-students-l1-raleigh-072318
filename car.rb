@@ -26,3 +26,5 @@ toyota.make
 toyota.year
 
 puts "This is my #{toyota.model}. It is a #{toyota.make}. It was made in #{toyota.year}."
+
+#Outcome= This is my camry. It is a toyota. It was made in 2017.
